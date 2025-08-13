@@ -1,0 +1,11 @@
+gradio>=4.44.1
+openai>=0.27.0
+openai-whisper @ git+https://github.com/openai/whisper.git
+TTS>=0.22.0
+g2p_en>=2.1.0
+jiwer>=3.0.4
+rapidfuzz>=3.9.6
+pydub>=0.25.1
+soundfile>=0.12.1
+numpy>=1.26.4
+pyaudioop>=0.2.0
