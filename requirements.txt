@@ -9,3 +9,4 @@ pydub>=0.25.1
 soundfile>=0.12.1
 numpy>=1.26.4
 pyaudioop>=0.2.0
+torch @ https://download.pytorch.org/whl/cu121/torch-2.5.1%2Bcu121-cp312-cp312-win_amd64.whl
